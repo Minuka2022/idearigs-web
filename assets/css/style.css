@@ -520,7 +520,7 @@ hr {
 
 /* Spacing */
 .section-padding {
-  padding: 190px 0;
+  padding: 120px 0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1549px) {
   .section-padding {
