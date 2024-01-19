@@ -409,7 +409,7 @@ hr {
 
 .btn-style-two {
   background: transparent;
-  border: 2px solid #4526b1;
+  border: 2px solid #126d4f;
   color: #1c1c1c;
   border-radius: 27px;
   padding: 15px 50px;
@@ -431,7 +431,7 @@ hr {
   right: -2px;
   bottom: -2px;
   background: #7153d9;
-  background: linear-gradient(135deg, #7153d9 0%, #5435be 45%, #4526b1 66%);
+  background: linear-gradient(135deg, #0cac76 0%, #0ec487 45%, #0fc076 66%);
   opacity: 0;
   transition: 0.5s;
   border-radius: 27px;
