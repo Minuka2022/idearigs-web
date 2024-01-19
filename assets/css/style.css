@@ -368,7 +368,7 @@ hr {
 .btn-style-one {
   border-color: #4526b1;
   background: #4526b1;
-  background: linear-gradient(135deg, #4526b1 0%, #5435be 45%, #7153d9 66%);
+ background: linear-gradient(135deg, #10ca8c 0%, #0fc98b 45%, #47c59b 66%);
   border: 0px;
   border-radius: 27px;
   padding: 20px 45px;
@@ -388,7 +388,7 @@ hr {
   right: 0;
   bottom: 0;
   background: #7153d9;
-  background: linear-gradient(135deg, #7153d9 0%, #5435be 45%, #4526b1 66%);
+  background: linear-gradient(135deg, #1bc089 0%, #34c091 45%, #3db48d 66%);
   opacity: 0;
   transition: 0.5s;
   border-radius: 27px;
@@ -990,7 +990,7 @@ hr {
   transition: 0.3s;
 }
 .main-menu > ul > li:hover > a {
-  color: #7153d9;
+  color: #099969;
 }
 .main-menu .has-children {
   position: relative;
@@ -4612,13 +4612,13 @@ hr {
 .progress-section .progress-bar {
   overflow: visible;
   height: 13px;
-  background-color: #7153d9;
+  background-color: #1ccc91;
   border-radius: 10px;
 }
 .progress-section .progress-number {
   position: absolute;
   right: -70px;
-  color: #7153d9;
+  color: #084b35;
   font-size: 21px;
   font-weight: 500;
   top: 50%;
