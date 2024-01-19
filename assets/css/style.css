@@ -244,7 +244,7 @@ hr {
   font-family: "Jost", sans-serif;
   font-weight: 500;
   line-height: 1.9;
-  color: #7153d9;
+  color: #12;
   text-transform: uppercase;
   letter-spacing: 8px;
 }
@@ -4712,7 +4712,7 @@ hr {
 }
 .single-portfolio .thumbnail::before {
   content: "";
-  background: linear-gradient(135deg, #4526b1 0%, #5435be 45%, #7153d9 66%);
+  background: linear-gradient(135deg, #26b165 0%, #35be79 45%, #53d980 66%);
   width: 100%;
   height: 100%;
   top: 0%;
