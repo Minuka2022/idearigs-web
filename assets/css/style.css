@@ -366,8 +366,8 @@ hr {
 
 /* Button Style */
 .btn-style-one {
-  border-color: #4526b1;
-  background: #4526b1;
+  border-color: #12f0a7;
+  background: #12f0a7;
  background: linear-gradient(135deg, #10ca8c 0%, #0fc98b 45%, #47c59b 66%);
   border: 0px;
   border-radius: 27px;
@@ -387,7 +387,7 @@ hr {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #7153d9;
+  background: #12f0a7;
   background: linear-gradient(135deg, #1bc089 0%, #34c091 45%, #3db48d 66%);
   opacity: 0;
   transition: 0.5s;
@@ -409,7 +409,7 @@ hr {
 
 .btn-style-two {
   background: transparent;
-  border: 2px solid #4526b1;
+  border: 2px solid #12f0a7;
   color: #1c1c1c;
   border-radius: 27px;
   padding: 15px 50px;
@@ -430,8 +430,8 @@ hr {
   left: -2px;
   right: -2px;
   bottom: -2px;
-  background: #7153d9;
-  background: linear-gradient(135deg, #7153d9 0%, #5435be 45%, #4526b1 66%);
+  background: #12f0a7;
+  background: linear-gradient(135deg, #6ed7b4 0%, #12f0a7 45%, #10f57b 66%);
   opacity: 0;
   transition: 0.5s;
   border-radius: 27px;
@@ -4682,7 +4682,7 @@ hr {
   margin-right: 0px;
 }
 .portfolio-menu-style .btn-portfolio:hover {
-  color: #7153d9;
+  color: #12f0a7;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .portfolio-menu-style .btn-portfolio {
@@ -4695,7 +4695,7 @@ hr {
   }
 }
 .portfolio-menu-style .btn-portfolio.active {
-  color: #7153d9;
+  color: #12f0a7;
 }
 
 .single-portfolio {
@@ -5236,7 +5236,7 @@ hr {
   }
 }
 .portfolio-two-btn .btn-style-three:hover {
-  background-color: #7153d9;
+  background-color: #12f0a7;
   color: #ffffff;
 }
 @media only screen and (max-width: 767px) {
@@ -5292,7 +5292,7 @@ hr {
     2.8 - Work Banner Style
 ================================ */
 .work-banner {
-  background-color: #4526b1;
+  background-color: #12f0a7;
   padding: 100px 110px;
   display: flex;
   align-items: center;
