@@ -81,7 +81,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #7153d9;
+  color: #0d0f0f;
   margin: 0px;
 }
 
@@ -451,7 +451,7 @@ hr {
 }
 
 .btn-style-three {
-  background: #e2c4ff;
+  background: #ffffff;
   color: #1c1c1c;
   border-radius: 27px;
   padding: 15px 45px;
@@ -5292,7 +5292,7 @@ hr {
     2.8 - Work Banner Style
 ================================ */
 .work-banner {
-  background-color: #12f0a7;
+  background-color: #269973;
   padding: 100px 110px;
   display: flex;
   align-items: center;
